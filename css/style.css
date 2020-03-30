@@ -16,3 +16,5 @@
 universales, con 2 se espesifican margenes (arriba-abajos, izq-derecha) 
 y con cuatro (arriba, abajo, izq, derecha) 
 
+->border -> Modifica el borde de los objetos (se especifica el grosor y 
+luego el tipo de borde (solid) y su color)
