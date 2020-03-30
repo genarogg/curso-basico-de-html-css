@@ -1,0 +1,14 @@
+/********************************************************
+
+->width y height -> ancho y alto de los objetos
+
+->background -> Fondo de los objetos
+
+->background-attachement: fixed; -> para poner los fondos inmoviles
+
+->background-repeat:no-repeat  -> para que los fondos no se repitan
+
+->margin -> Margenes externos de los objetos relativos a la pagina
+
+->padding -> Margenes internos de los objetos
+
