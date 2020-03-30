@@ -12,3 +12,7 @@
 
 ->padding -> Margenes internos de los objetos
 
+->en los padding y margin los px si solo se coloca 1 representa margenes 
+universales, con 2 se espesifican margenes (arriba-abajos, izq-derecha) 
+y con cuatro (arriba, abajo, izq, derecha) 
+
