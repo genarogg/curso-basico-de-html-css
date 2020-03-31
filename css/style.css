@@ -52,3 +52,10 @@ body{
 	background: #e6e6e6e6;
 }
 
+header, .main, footer{
+	
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;
+}
+
