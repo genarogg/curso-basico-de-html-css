@@ -99,3 +99,9 @@ header nav ul li a:hover{
 	text-align: justify; 
 }
 
+aside {
+	width: 30%;
+	background: #ff8000;
+	float: left;
+	box-sizing: border-box;
+}
