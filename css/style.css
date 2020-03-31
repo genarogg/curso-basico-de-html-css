@@ -59,3 +59,17 @@ header, .main, footer{
 	margin: auto;
 }
 
+header nav{
+	background: #528fd5;
+	overflow: hidden;
+}
+
+header nav ul{
+	list-style: none;
+}
+
+
+header nav ul li{
+	float: left;
+}
+
