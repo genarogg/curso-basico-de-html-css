@@ -34,3 +34,11 @@ inline-block esta permite la manipulacion de los margin, padding, width o height
 	->left ->
 	->right -> 
 
+
+************************Texto***************************
+text-aline: left, right, center, justify; para acomodar la posicione de los textos
+text-decoration: underline, none, overline, line-through; -> para poner o quitar las lideas de subrayado
+text-transform: capitalize, uppercase, lowercase; -> permite la modificacion des los textos con mayusculas y minusculas
+text-shadow: ; ->Agrega sonbras a los textos
+********************************************************/
+
