@@ -84,3 +84,11 @@ header nav ul li a{
 header nav ul li a:hover{
 	background: #75ac;
 }
+
+.main .articles{
+	width: 68.5%;
+	margin-right: 1.5%;
+	float: left;
+	background: white;
+}
+
