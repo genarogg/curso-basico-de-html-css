@@ -73,3 +73,10 @@ header nav ul li{
 	float: left;
 }
 
+header nav ul li a{
+	padding: 10px 20px;
+	display:block;
+	color: #fff;
+	text-decoration: none;
+
+}
