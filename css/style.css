@@ -18,3 +18,9 @@ y con cuatro (arriba, abajo, izq, derecha)
 
 ->border -> Modifica el borde de los objetos (se especifica el grosor y 
 luego el tipo de borde (solid) y su color)
+
+->display (como se veran los objetos) -> por defecto estan en block y
+otra de sus aributos es inline que permite agrupar uno al lado del otro. Nota:
+no permite cambios en margin, padding, width o height; otra atributo es 
+inline-block esta permite la manipulacion de los margin, padding, width o height;
+
