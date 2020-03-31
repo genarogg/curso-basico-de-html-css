@@ -92,3 +92,10 @@ header nav ul li a:hover{
 	background: white;
 }
 
+.main .articles article{
+	padding: 20px;
+	background: white;
+	margin-bottom: 20px; 	
+	text-align: justify; 
+}
+
